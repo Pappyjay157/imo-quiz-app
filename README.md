@@ -20,20 +20,6 @@ Imo Quiz App is designed to provide an engaging quiz experience on mobile device
 - **TypeScript Support:** Ensures type safety and better developer experience.
 - **Navigation:** Smooth transitions using React Navigation.
 
----
-
-## Screenshots
-
-> _Replace these with actual screenshots after running the app._
-
-- **Home Screen:**  
-    ![Home Screen](assets/placeholder-home.png)
-
-- **Quiz Screen:**  
-    ![Quiz Screen](assets/placeholder-quiz.png)
-
-- **Result Screen:**  
-    ![Result Screen](assets/placeholder-result.png)
 
 ---
 
